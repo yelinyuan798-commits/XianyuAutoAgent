@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Logs
+*.log
+bot_output.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Docker (optional)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# macOS scripts
+*.command
+
+# License file is ok but we keep our own
+LICENSE
