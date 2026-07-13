@@ -1,4 +1,4 @@
-﻿@echo off
+@echo off
 chcp 65001 >nul
 title 闲鱼自动售卖机器人 - 7x24小时值守
 
