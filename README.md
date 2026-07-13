@@ -1,37 +1,33 @@
+
 <div align="center">
 
-# ⚡ Xianyu Auto Agent
+# ⚡ Xianyu Auto Agent - 闲鱼自动售卖机器人
 
-### 🚀 复制即用 · 一键部署 · 7×24h 闲鱼自动值守
-
-> **只需填2个参数 ➜ 双击 setup.bat ➜ 机器人自动上线**
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-22AA55?style=flat-square)](LICENSE)
-[![DeepSeek](https://img.shields.io/badge/LLM-DeepSeek-4A90D9?style=flat-square)](https://platform.deepseek.com/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()
-[![Setup](https://img.shields.io/badge/Setup-One--Click-success?style=flat-square)]()
+[![Download ZIP](https://img.shields.io/badge/⬇️_Download_ZIP-181717?style=for-the-badge&logo=github)](https://github.com/yelinyuan798-commits/XianyuAutoAgent/archive/refs/heads/main.zip)
+[![Quick Deploy](https://img.shields.io/badge/🚀_3分钟部署-22AA55?style=for-the-badge)](https://github.com/yelinyuan798-commits/XianyuAutoAgent#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
+[![View on GitHub](https://img.shields.io/badge/📖_查看文档-4A90D9?style=for-the-badge)](https://github.com/yelinyuan798-commits/XianyuAutoAgent)
+[![Star](https://img.shields.io/badge/⭐_Star-FF6B6B?style=for-the-badge)](https://github.com/yelinyuan798-commits/XianyuAutoAgent)
 
 </div>
 
 ---
 
-## 📦 复制一次，永远部署
+## ⬇️ 下载与部署
 
-**把 `XianyuAutoAgent` 文件夹复制到任何 Windows 电脑 → 双击 `setup.bat` → 完成。**
+```bash
+# 方式一：下载ZIP（推荐）
+# 点击上方 "Download ZIP" 按钮 → 解压 → 双击 setup.bat
 
-```mermaid
-flowchart LR
-    A[📁 复制文件夹] --> B[⚡ 双击 setup.bat]
-    B --> C[🤖 填2个参数<br>API Key + Cookie]
-    C --> D[▶️ 双击 start_bot.bat]
-    D --> E[✅ 开始自动值守!]
+# 方式二：克隆
+git clone https://github.com/yelinyuan798-commits/XianyuAutoAgent.git
+cd XianyuAutoAgent
+
+# 一键部署
+双击 setup.bat    # ← 自动完成所有安装
+# 或命令行运行 setup.bat
 ```
 
-> 💡 **全程不超过 3 分钟，不需要懂代码，不需要装任何环境。**
-
 ---
-
 ## ✨ 凭什么选它？
 
 <table>
@@ -234,3 +230,4 @@ COOKIES_STR=你的Cookie字符串   # 👈 和这里
 [![GitHub stars](https://img.shields.io/github/stars/yelinyuan798-commits/XianyuAutoAgent?style=social)](https://github.com/yelinyuan798-commits/XianyuAutoAgent)
 
 </div>
+
